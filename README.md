@@ -8,4 +8,5 @@ This program has the following capabilities:
 4) Detects if password information has already been saved nad gives the option to override iwth newer information
 
 
-<img width="972" height="756" alt="image" src="https://github.com/user-attachments/assets/f5837a8a-815e-4e2d-a2a5-1a020e7ad89b" />
+<img width="971" height="758" alt="image" src="https://github.com/user-attachments/assets/61783615-f958-49b5-92d9-f968a35247b2" />
+
